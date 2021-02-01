@@ -1,0 +1,6 @@
+se\dendromeda\pilampcontroller\Application.class
+se\dendromeda\pilampcontroller\ButtonChecker.class
+se\dendromeda\pilampcontroller\GpioStuff.class
+se\dendromeda\pilampcontroller\RestChecker.class
+se\dendromeda\pilampcontroller\GpioMock.class
+se\dendromeda\pilampcontroller\Gpio.class
